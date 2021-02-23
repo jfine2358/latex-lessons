@@ -13,7 +13,7 @@ title:Symbols
 ---
 id:1
 ---
-target: The sum of interior angles: $\alpha + \beta + \gamma = \pi$
+target: The sum of interior angles: $\alpha + \beta + \gamma = \pi / 2$
 ---
 comment: Write source code for the formula above. Enclose it in dollar
 signs: \dollar MATH HERE \dollar. Use \bs{alpha} for $\alpha$, and so on.
